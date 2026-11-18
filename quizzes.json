@@ -1,0 +1,113 @@
+[
+  {
+     "id": 1,
+      "title": "Exam 1 — Web Basics",
+
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which language is used to structure the content of a web page?",
+        "options": ["CSS", "HTML", "Python", "SQL"],
+        "correctAnswer": "HTML"
+      },
+      {
+        "id": "q2",
+        "question": "Which language is mainly used to style a web page (colors, spacing, fonts)?",
+        "options": ["JavaScript", "HTML", "CSS", "Flask"],
+        "correctAnswer": "CSS"
+      },
+      {
+        "id": "q3",
+        "question": "Which language adds behavior and interactivity in the browser?",
+        "options": ["JavaScript", "CSS", "SQLite", "Markdown"],
+        "correctAnswer": "JavaScript"
+      },
+      {
+        "id": "q4",
+        "question": "What does a Flask app do in a project like this?",
+        "options": ["Draws the buttons", "Runs the Python backend and serves data", "Changes the page colors", "Compresses images"],
+        "correctAnswer": "Runs the Python backend and serves data"
+      },
+      {
+        "id": "q5",
+        "question": "What is SQLite used for?",
+        "options": ["Storing data in a small database file", "Writing CSS faster", "Designing logos", "Sending emails"],
+        "correctAnswer": "Storing data in a small database file"
+      }
+    ]
+  },
+  {
+    "id": 2,
+      "title": "Exam 2 — HTML, CSS & JavaScript",
+    
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which HTML element creates a hyperlink?",
+        "options": ["<p>", "<a>", "<img>", "<h1>"], 
+        "correctAnswer": "<a>"
+      },
+      {
+        "id": "q2",
+        "question": "Which CSS property changes the text color?",
+        "options":["font-size", "background", "color", "padding"],
+        "correctAnswer": "color"
+      },
+      {
+        "id": "q3",
+        "question": "Which JavaScript keyword declares a variable that can be reassigned?",
+        "options":["let", "const", "style", "return"],
+        "correctAnswer": "let"
+      },
+      {
+        "id": "q4",
+        "question": "What does CSS Flexbox help arrange?",
+        "options": ["Elements in a layout", "Database tables", "Audio files", "Web addresses"],
+        "correctAnswer": "Elements in a layout"
+      },
+      {
+        "id": "q5",
+        "question": "Which HTML attribute provides alternative text for an image?",
+        "options": ["href", "src", "alt", "class"],
+        "correctAnswer": "alt"
+      }
+    ]
+  },
+  {
+     "id": 3,
+      "title": "Exam 3 — Backend & Databases",
+    
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the main role of a web server?",
+        "options": ["Store only page colors", "Receive requests and send responses", "Draw images on the screen", "Replace the browser"],
+        "correctAnswer": "Receive requests and send responses"
+      },
+      {
+        "id": "q2",
+        "question": " Which HTTP method is commonly used to retrieve data?",
+        "options": ["GET", "DELETE", "PATCH", "TRACE"],
+        "correctAnswer": "GET"
+      },
+      {
+        "id": "q3",
+        "question": "In a relational database, what is a row usually called?",
+        "options": ["A record", "A stylesheet", "A function", "A route"],
+        "correctAnswer" : "A record"
+      },
+      {
+        "id": "q4",
+        "question": "What does a primary key do in a database table?",
+        "options": ["Uniquely identifies each row", "Changes the page layout", "Encrypts every image", "Starts the web browser"],
+        "correctAnswer": "Uniquely identifies each row"
+      },
+      {
+        "id": "q5",
+        "question": "What is an API commonly used for?",
+        "options": ["Letting software systems communicate", "Changing a monitor's brightness", "Formatting a hard drive", "Styling headings"],
+        "correctAnswer": "Letting software systems communicate"
+      }
+    ]
+  }
+]
